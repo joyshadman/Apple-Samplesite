@@ -1,0 +1,98 @@
+*{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+.title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align: center;
+    padding: 30px 0;
+    font-size: 25px;
+}
+
+
+.content {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.apple {
+    height: 300px;
+    width: 400px;
+    margin: 0 auto; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+
+}
+.structure {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    padding: 30px ;
+
+
+}
+.bullet {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    
+}
+.button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    color: rgb(173, 17, 17);
+    padding: 10px 20px;
+    margin: 0 auto; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+
+}
+footer {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+.orange{
+    color: hsla(34, 100%, 50%, 0.897);
+}
+
+.specbox {
+    background-color: #000000;
+    border-radius: 20px;
+    padding: 30px;
+    max-width: 300px;
+    text-align: center;
+    margin: 0 auto; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+.specbox ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.specbox ul li {
+    margin: 10px 0;
+    font-size: 16px;
+    color: #818181;
+}
+
+.specbox ul li strong {
+    color: #ffffff;
+}
+.headline {
+    text-align: center;
+    font-size: 40px;padding: 10px ;
+}
+.subline{
+    text-align: center;
+    color: hsla(34, 100%, 50%, 0.897) ;
+    font-size: 30px;padding: 15px ;
+}
+
+.none{
+    list-style-type: none;
+    text-align: center;
+}
